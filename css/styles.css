@@ -189,6 +189,11 @@ textarea {
     outline: none;
     border: none;
     border-radius: 10px;
+    
+}
+
+div.text-area{
+    margin-top: 20px;
 }
 
 .container{
@@ -200,11 +205,12 @@ textarea {
 
 }
 
-.bordo{
+div.bordo{
     border-radius: 10px;
     padding: 20px;
     background-color: #F6BB55;
     margin: 40px;
+    
 }
 
 form{
@@ -213,6 +219,3 @@ form{
     margin: auto;
 }
 
-.hero p{
-    text-align: center;
-}
