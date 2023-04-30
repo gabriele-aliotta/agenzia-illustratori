@@ -63,6 +63,10 @@ header nav ul{
     font-size: 12px; 
 }
 
+header nav ul li{
+    padding-top: 12px;
+}
+
 header nav ul li.button{
     border: 1px solid black;
     padding: 10px 10px 10px 10px;
